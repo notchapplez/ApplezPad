@@ -1,14 +1,11 @@
 # ApplezPad
 
-## CAD Model:
-<img src=./full.png>
-
 ## PCB
 Schematic
 <img src=./schematic.png alt="Schematic" width="300"/>
 
 PCB
-<img src=./pcb.png alt="Schematic" width="300"/>
+<img src=./Screenshot%20From%202025-11-14%2008-21-47.png alt="Schematic" width="300"/>
 
 I use kmk for the firmware.
 
